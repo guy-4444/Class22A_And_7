@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223279147492",
+    "project_id": "garage-test-368cd",
+    "storage_bucket": "garage-test-368cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223279147492:android:b3a416b23ca6dbd9753ff1",
+        "android_client_info": {
+          "package_name": "com.guy.class22a_and_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223279147492-hf5r7d1jlp0jtj18paka5matc4s2klr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AmcvCIl3rAto-0Eg0jingy21b3EDDUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223279147492-hf5r7d1jlp0jtj18paka5matc4s2klr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
